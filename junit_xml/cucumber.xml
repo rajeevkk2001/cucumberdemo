@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Login NTTA Feature" name="Free CRM login Test Scenario" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given When the NTTA website is opened.......................................undefined
+When Title of the site is verified..........................................undefined
+Then Enter Username and Password Details....................................undefined
+And User Click on Login button..............................................undefined
+Then Verify the Landing page................................................undefined
+]]></failure>
+</testcase>
+</testsuite>
